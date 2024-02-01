@@ -1,0 +1,149 @@
+  <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>29.998800</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=20</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>19.999700</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>9.999100</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>4.998800</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Brights</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=100 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=75 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>75.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=10 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=60 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>60.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.003100</xmpG:yellow>
+                           <xmpG:black>0.003100</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 16.07</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobj3 0 obj<</Count 1/Kids[14 0 R]/Type/Pages>>endobj14 0 obj<</ArtBox[0.0 0.0 841.89 1190.55]/BleedBox[0.0 0.0 841.89 1190.55]/Contents 15 0 R/CropBox[0.0 0.0 841.89 1190.55]/LastModified(D:20221207193121+02'00')/MediaBox[0.0 0.0 841.89 1190.55]/Parent 3 0 R/Resources<</ExtGState<</GS0 16 0 R>>/Font<</C2_0 10 0 R/TT0 5 0 R/TT1 6 0 R/TT2 7 0 R/TT3 8 0 R/TT4 9 0 R/TT5 11 0 R>>/ProcSet[/PDF/Text]/Properties<</MC0 12 0 R>>>>/Thumb 17 0 R/TrimBox[0.0 0.0 841.89 1190.55]/Type/Page/PieceInfo<</Illustrator 18 0 R>>>>endobj15 0 obj<</Filter/FlateDecode/Length 409>>stream
+HâåìÀj1E˜˙äZ&ã©©ó§Ñ,<6YcÇõx≤∞Cû`Ú˝)=œ8õ–0Ù¥nÈ\©˜Wÿ_ŒŒê30P\ﬂ”˛›5¡ó«‘ˇπ1zÊâ,põÓ“}≠'¸îÿ˝}ë¯5ﬁéºO+A∞;•çËu:€“Léπ∑≠ﬂnw©dCe—Å©V∞ñb¿ï∞I‹†8+l?”´´◊€∑ƒùÄíÁœ Ò$IÙ¨6H"›]Å6+
+•sdp>v!è*0Vå<A2AÏ≈|ä5è†4(.± E’<07s±•Oj›ËXM-8RÌ§QäVÖ\2ÈT˚1’éÍ—≈pât≠/agﬁ*àä¬:‰˜~Üÿj¶∂HπºÄîÜâæ jqªú˛kÎCõüO”A>-Ô!C±.=Ór5§Séëä]äısÉJQBsø!≤¸ˆ¥R¨˘üF∏§fK&W,•vEv.‡¬±CÕáŒÁŸ»—÷‰uÍ‚tPô[\5§L¡T{ù%ò=∑Å¯∫π∏åœÁè  ),®¯
+endstreamendobj17 0 obj<</BitsPerComponent 8/ColorSpace 19 0 R/Filter[/ASCII85Decode/FlateDecode]/Height 106/Length 1218/Width 74>>stream
+8;Z]"4dq!G&;Eo^OAseV[K/&@=a!NY4Z:R5lnq[Dfr+C/b5`c:_b[S(_.NnuR#dT[
+&K,'p[S(`%.`PbGM7lNZmPaGFqeFi?e=N-&TsX:D^&?H\l0YAa9lE8(C3ocV78kFf
+@2T".Vr)&gTN67T.[nMTs+OQEFeb^4ohRe(>*@Ui2!)gBHMLj*-Ij`3b%_i:&^.%C
+G8<&I7QqYE5H=[g9]A#ss6tW4lq@ij9HD>`K-koo4JZQSP,GUS4E[g%A>u)kL:FA!
+A8"-hVnpZL5^.PqGtmA@#HiNB`lig'8kDs!jMjtm]Tf%[PZ5e$'WG1*e!$6Cq8lLf
+j*es#K%7&?H/Ea\AG,8W1bj-Z##4c7=iVji^TLG_V+">]?.Z>s_foLPVQP(0C'8MD
+hL6rmqH,iQ@,:ZD5HS@nBZcD6YpS3uISq(*6khIh7\8nMgTu?$iRDOPI'Rb^qbbm"
+I^2q1m8Obd+\O(-A6[<-g2IUPb+bX.KJ[@,ja9L16JmlR6D)YH7o>^Cj<(9L6RpW>
++9M-g^Oo"@qT8R^oFl:pb)ml);)Gk;+JGc"an7GgQUiEk<r9'DMG"5;!gWQ&UGRkW
+=`<<B7app!ebg,FkYM/#Xq)roF6ATBTqmq*F6A?Y`D7q<rnMFLa9t+)E=Oaq_EQnQ
+lE`YI1mS"B"H\?i-XbK:$\/eNd:5DO\T*$eQ01*t'NY-"@Q=+I$]LtTW=/VZJ)_=A
+Xhde($];LrQFl!dT=hh/Cu7>^<41he-iJ_u3U>LKGN[`Z'`,d&]$@S<C4>aOo'kk9
+2Tfs--6b\-XK@Nu*B/2phjg<d;DUS,mja-WTr'fqq!U95'9EQ%$fk4kRQ0IPS-rPB
+bWWH;p]aMC9e+_LUI=0_Y"-S]ER:IDDRmll!9T9Z*5@1P5B2*=0!GgoXR"\?;@uij
+2^tTDkl@L>=$E'6UlfJRi2?L9&Fd;-m3aF(<$1=l($fCqBks\cU'&?5SQ('dU^l0V
+o&"_1'o-Q+n!mE7.5`S#*&HOcZ;!aJ>4Jk[Tup(rBO0Po!tsV@MR(lh!*tHtO9/-[
+$/[.J:LB9;g`">$0*u&4RJb"*-[;#V6JhpQFFY9s5>BBbG8:]bSj06b9B=?Bb#$R_
+a`pD'>k+j@bhbt4.'Gm-l,*A:;b^CZD2Q&LTHp#!NY/+@<^b#,d]+W]$M+pd,,dit
+5t]_c2e/u<pK])@V.FE32ZQi)6eD~>
+endstreamendobj18 0 obj<</LastModified(D:20221207193121+02'00')/Private 20 0 R>>endobj20 0 obj<</AIMetaData 21 0 R/AIPDFPrivateData1 22 0 R/AIPDFPrivateData2 23 0 R/AI
